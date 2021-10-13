@@ -1,9 +1,14 @@
+/* Commons */
+.btn-radius{
+    border-radius: 20px;
+}
+
+/* Header */
 header .sony-logo{
     width: 80px;
     height: 35px;
     vertical-align: middle;
 }
-
 
 header .chevron{
     width: 10px;
@@ -12,6 +17,21 @@ header .lens img{
     width: 25px;
 }
 
-.btn-radius{
-    border-radius: 20px;
+/* Hero */
+.hero{
+    background-image:url('../img/jumbo-bg.png');
+    background-position: top;
+    height: 600px;
+    color: white
+}
+
+.banner img{
+    width: 300px;
+}
+
+.hero-content{
+    height: 600px;
+}
+.hero .height{
+    height: 100%;
 }
