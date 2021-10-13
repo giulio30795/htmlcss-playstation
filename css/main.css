@@ -50,7 +50,8 @@ header .lens img{
     height: 100%;
 }
 /* Game Section */
-.game img{
+.game img,
+.new-game img{
     max-width: 100%;
     border-radius: 10px;
 }
@@ -63,3 +64,6 @@ header .lens img{
     color: white;
 }
 
+.new-game{
+    background-color: #202020;
+}
