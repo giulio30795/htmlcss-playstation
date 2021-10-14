@@ -7,7 +7,8 @@ font-family: Arial;
 }
 
 .ps5-image,
-.gadget img{
+.gadget img,
+.ps4 img{
     max-width: 100%;
 }
 
