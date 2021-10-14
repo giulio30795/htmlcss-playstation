@@ -45,13 +45,14 @@ header .lens img{
 .hero{
     background-image:url('../img/jumbo-bg.png');
     background-position: top;
+    background-size: cover;
     height: 600px;
     color: white;
     margin-top:95px
 }
 
 .banner img{
-    width: 300px;
+    width: 250px;
 }
 
 .hero-content{
@@ -76,6 +77,10 @@ header .lens img{
     background-position: top;
     height: 600px;
     color: white;
+}
+
+.banner-2 img{
+    width: 300px;
 }
 
 .new-game{
