@@ -12,11 +12,15 @@ font-family: Arial;
 .ps4 img,
 .ps-plus img,
 .ps-store img,
-.ps-now img
+.ps-now img,
+.social img
 {
     max-width: 100%;
 }
 
+.mw-80{
+    max-width: 540px;
+}
 /* Header */
 header{
     font-family: Arial, Helvetica, sans-serif
