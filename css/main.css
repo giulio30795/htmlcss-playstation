@@ -10,7 +10,9 @@ font-family: Arial;
 .gadget img,
 .ps5 img,
 .ps4 img,
-.ps-plus img
+.ps-plus img,
+.ps-store img,
+.ps-now img
 {
     max-width: 100%;
 }
@@ -76,9 +78,17 @@ header .lens img{
 .ps-plus{
     background-color: #BEBCBB;
 }
-img.ps-plus-img{
+img.ps-60-img{
     max-width:60%;
 }
 .ps-plus .btn-radius{
     background-color:#D9DADC;
+}
+
+/* PS Now Section */
+.ps-now{
+    background-color: #161C3B;
+}
+.ps-now .btn-radius {
+    background-color: white;
 }
