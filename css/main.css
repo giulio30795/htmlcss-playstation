@@ -8,7 +8,10 @@ font-family: Arial;
 
 .ps5-image,
 .gadget img,
-.ps4 img{
+.ps5 img,
+.ps4 img,
+.ps-plus img
+{
     max-width: 100%;
 }
 
@@ -67,4 +70,15 @@ header .lens img{
 
 .new-game{
     background-color: #202020;
+}
+
+/* ps-plus Section */
+.ps-plus{
+    background-color: #BEBCBB;
+}
+img.ps-plus-img{
+    max-width:60%;
+}
+.ps-plus .btn-radius{
+    background-color:#D9DADC;
 }
