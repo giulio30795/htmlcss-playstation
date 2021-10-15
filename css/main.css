@@ -32,7 +32,7 @@ font-family: Arial, Helvetica, sans-serif
 .opacity-border:hover{
     opacity: 100%;
     cursor: pointer;
-    border-color: royalblue;
+    border-color: #0072CE
 }
 
 .outline:hover{
