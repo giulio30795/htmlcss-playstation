@@ -23,6 +23,20 @@ font-family: Arial;
     max-width: 540px;
 }
 
+.opacity{
+    opacity: 40%;
+}
+
+.opacity:hover{
+    opacity: 100%;
+    cursor: pointer;
+    border-color: royalblue;
+}
+
+.border-ps5{
+    border-bottom: 1px solid transparent;
+}
+
 /* Header */
 header{
     font-family: Arial, Helvetica, sans-serif
