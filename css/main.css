@@ -70,6 +70,7 @@ header .sony-logo{
     height: 35px;
     vertical-align: middle;
 }
+
 header .chevron{
     width: 10px;
 }
@@ -160,6 +161,7 @@ footer{
 footer .ps-20-img{
     max-width: 20%;
 }
+
 footer .footer-logo{
     width: 6rem;
 }
